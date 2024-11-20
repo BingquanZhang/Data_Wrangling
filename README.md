@@ -39,9 +39,9 @@ Our analysis indicated that:
 ![Correlation Heatmap ](Correlation Heatmap/Heatmap.png)
 
 #### Scatter Plot of Energy vs Valence
-![Scatter Plot of Dancebility vs Valence](Scatter Plot/Dancebility_Valence.png)
-![Scatter Plot of Energy vs Valence](Scatter Plot/Energy_Valence.png)
-![Scatter Plot of Energy vs Acountness](Scatter Plot/Energy_accountness.png)
+![Scatter Plot of Dancebility vs Valence](Scatter_Plot/Dancebility_Valence.png)
+![Scatter Plot of Energy vs Valence](Scatter_Plot/Energy_Valence.png)
+![Scatter Plot of Energy vs Acountness](Scatter_Plot/Energy_accountness.png)
 
 ## Conclusions
 This project provided insights into the defining characteristics of popular music on Spotify. While danceability and energy were less correlated with popularity than expected, emotional content played a significant role in a song's success.
