@@ -44,7 +44,7 @@ This project provided insights into the defining characteristics of popular musi
 
 ## How to Use This Repository
 - Clone the repository to obtain all scripts and data files used in the analyses.
-- Scripts for data collection and analysis are located in the `NLP Code` directory.
+- Scripts for data collection and analysis are located in the `NLP Code` and ` `directory.
 
 ## Reference
 [1] Stacy.Goldrick@groupsjr.com. (2024, April 23). Spotify Reports First Quarter 2024 Earnings. Spotify.     
