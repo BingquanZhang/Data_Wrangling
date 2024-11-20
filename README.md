@@ -36,7 +36,7 @@ Our analysis indicated that:
 ![Emotion Distribution for Pop Genre](piecharts/Pop_pie_chart.png)
 
 #### Correlation Heatmap of Key Song Features and Streams
-![Correlation Heatmap ](Correlation_Heatmap/Heatmap.png)
+![Correlation Heatmap ](CorrelationHeatmap/Heatmap.png)
 
 #### Scatter Plot of Energy vs Valence
 ![Scatter Plot of Energy vs Valence](Scatter Plot/Energy_Valence.png)
