@@ -39,7 +39,7 @@ Our analysis indicated that:
 ![Correlation Heatmap ](Correlation_Heatmap/Heatmap.png)
 
 #### Scatter Plot of Energy vs Valence
-![Scatter Plot of Dancebility vs Valence](Scatter_Plot/Dancebility_Valence.png)
+![Scatter Plot of Dancebility vs Valence](Scatter_Plot/Dancebility_valence.png)
 ![Scatter Plot of Energy vs Valence](Scatter_Plot/Energy_Valence.png)
 ![Scatter Plot of Energy vs Acountness](Scatter_Plot/Energy_accountness.png)
 
