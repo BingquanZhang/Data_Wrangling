@@ -26,17 +26,17 @@ Our analysis indicated that:
 - Emotional resonance significantly impacts listener engagement.
 - Danceability and energy, contrary to expectations, showed weak negative correlations with streaming popularity.
 
-## Visualizations
-### Word Cloud for Pop Genre
-![Word Cloud for Pop Genre](Pop_wordcloud.png)
+### Visualizations
+#### Word Cloud for Pop Genre
+![Word Cloud for Pop Genre](wordclouds/Pop_wordcloud.png)
 
-### Emotion Distribution for Pop Genre
-![Emotion Distribution for Pop Genre](Pop_pie_chart.png)
+#### Emotion Distribution for Pop Genre
+![Emotion Distribution for Pop Genre](piecharts/Pop_pie_chart.png)
 
-### Correlation Heatmap of Key Song Features and Streams
+#### Correlation Heatmap of Key Song Features and Streams
 ![Correlation Heatmap of Key Song Features and Streams](Correlation_heatmap.png)
 
-### Scatter Plot of Energy vs Valence
+#### Scatter Plot of Energy vs Valence
 ![Scatter Plot of Energy vs Valence](Scatter_plot_energy_valence.png)
 
 ## Conclusions
@@ -46,16 +46,16 @@ This project provided insights into the defining characteristics of popular musi
 - Clone the repository to obtain all scripts and data files used in the analyses.
 - Scripts for data collection and analysis are located in the `NLP Code` directory.
 
-## Dataset
-Download the original dataset used in this project from [Kaggle](https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs).
-
 ## Reference
-[1] Stacy.Goldrick@groupsjr.com. (2024, April 23). Spotify Reports First Quarter 2024 Earnings. Spotify. (https://newsroom.spotify.com/2024-04-23/spotify-reports-first-quarter-2024-earnings/)
+[1] Stacy.Goldrick@groupsjr.com. (2024, April 23). Spotify Reports First Quarter 2024 Earnings. Spotify.     
+https://newsroom.spotify.com/2024-04-23/spotify-reports-first-quarter-2024-earnings/
 
-[2] Abdullah, M. (2024). Spotify Most Streamed Songs. Kaggle.com.
-(https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs)
+[2] Abdullah, M. (2024). Spotify Most Streamed Songs. Kaggle.com.     
+https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs
 
-[3] Spotify. (n.d.). Web API | Spotify for Developers. Developer.spotify.com. Retrieved October 12, 2024, from
-(https://developer.spotify.com/documentation/web-api)
+[3] Spotify. (n.d.). Web API | Spotify for Developers. Developer.spotify.com. Retrieved October 12, 2024, from     
+https://developer.spotify.com/documentation/web-api
+
+[4] Crowdsourcing a Word-Emotion Association Lexicon, Saif Mohammad and Peter Turney, Computational Intelligence, 39(3), 555-590, 2013.
 
 
