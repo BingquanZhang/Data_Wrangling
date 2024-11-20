@@ -14,10 +14,12 @@ This project explores the characteristics that define popular music on Spotify, 
 
 ## Methodology
 ### Data Collection
+#### After creating an account and generating an API token, make API requests.
 - Lyrics were retrieved using the [Genius API](https://genius.com/api-clients).
 - Song metadata was obtained via the [Spotify Web API](https://developer.spotify.com/documentation/web-api).
 
 ### Data Analysis
+#### Leveraging NLP for Sentiment and Correlation Analysis. 
 - **Sentiment Analysis**: Performed on song lyrics to determine the emotional tone across different genres.
 - **Correlation Analysis**: Explored how danceability and energy correlate with streaming counts.
 
