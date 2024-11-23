@@ -51,15 +51,24 @@ This project provided insights into the defining characteristics of popular musi
 - Scripts for data collection and analysis are located in the `NLP Code` and `Correlation Analysis Code `directory.
 
 ## Reference
-[1] Stacy.Goldrick@groupsjr.com. (2024, April 23). Spotify Reports First Quarter 2024 Earnings. Spotify.     
+[1] The Python scripts are deeply inspired by the foundational structure and pipeline design of Professor Carly Bobak's Spotify Project.     
+*We are immensely grateful to Professor Bobak for her generous support and endless patience throughout the development of this project. Her guidance has been crucial to our success* : )     
+
+[2] Millr, J. W. . LyricsGenius: a Python client for the Genius.com API.    
+https://github.com/johnwmillr/LyricsGenius.    
+
+[3]Tingle, M. . Getting started with Spotify’s API: Spotipy. Medium.     
+https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b    
+
+[4] Stacy.Goldrick@groupsjr.com. (2024, April 23). Spotify Reports First Quarter 2024 Earnings. Spotify.     
 https://newsroom.spotify.com/2024-04-23/spotify-reports-first-quarter-2024-earnings/
 
-[2] Abdullah, M. (2024). Spotify Most Streamed Songs. Kaggle.com.     
+[5] Abdullah, M. (2024). Spotify Most Streamed Songs. Kaggle.com.     
 https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs
 
-[3] Spotify. (n.d.). Web API | Spotify for Developers. Developer.spotify.com. Retrieved October 12, 2024, from     
+[6] Spotify. (n.d.). Web API | Spotify for Developers. Developer.spotify.com. Retrieved October 12, 2024, from     
 https://developer.spotify.com/documentation/web-api
 
-[4] Crowdsourcing a Word-Emotion Association Lexicon, Saif Mohammad and Peter Turney, Computational Intelligence, 39(3), 555-590, 2013.
+[7] Crowdsourcing a Word-Emotion Association Lexicon, Saif Mohammad and Peter Turney, Computational Intelligence, 39(3), 555-590, 2013.
 
 
